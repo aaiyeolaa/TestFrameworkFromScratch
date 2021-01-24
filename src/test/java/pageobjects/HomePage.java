@@ -10,7 +10,7 @@ public class HomePage {
 
     By runButton = By.id("run-button");
     By windowOutput = By.id("output");
-//    COMMENTS
+//    COMMENTS DISABLED
     
     public HomePage(Hooks hooks) {
         this.driver = hooks.getDriver();

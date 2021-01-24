@@ -11,7 +11,8 @@ import utilities.Hooks;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 
-public class HomeSteps {
+public class HomeSteps { 
+	
     public WebDriver driver;
 
     HomePage homePage;
